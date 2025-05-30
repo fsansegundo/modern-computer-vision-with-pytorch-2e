@@ -190,7 +190,7 @@ By the end of this deep learning book, you'll confidently leverage modern NN arc
 
 <details>
    <summary><h2>Missing Datasets</h2></summary>
-   Some of datasets were either removed from their original links by authors, if you find them missing, please raise an issue and track it down and place them <a href="https://huggingface.co/datasets/sizhkhy/mcvp-datasets/tree/main">at this huggingface datsets link</a>
+   Some of datasets were removed from their original links by authors. If you find them missing, please raise an issue and we'll track it down and place them <a href="https://huggingface.co/datasets/sizhkhy/mcvp-datasets/tree/main">at this huggingface datsets link</a>
 </details>
 
 
