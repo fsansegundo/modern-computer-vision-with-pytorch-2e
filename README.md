@@ -186,11 +186,11 @@ By the end of this deep learning book, you'll confidently leverage modern NN arc
 | <ul><li>vector_stores.ipynb</li></ul> | <a href="https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter18/vector_stores.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter18/vector_stores.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter18/vector_stores.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter18/vector_stores.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
 | **Chapter 19: Appendix** | | | | |
 
+</details>
 
-
-
-
-
+<details>
+   <summary>Datasets</summary>
+   Some of datasets were either removed from their original links by authors, if you find them missing, please raise an issue and track it down and place them [at this huggingface datsets link](https://huggingface.co/datasets/sizhkhy/mcvp-datasets/tree/main)
 </details>
 
 
