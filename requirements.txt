@@ -1,0 +1,57 @@
+# Core Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+
+# Specialized Computer Vision & Generative AI Libraries
+torch-snippets
+torchinfo
+torch-summary
+ultralytics
+diffusers
+accelerate
+transformers
+datasets
+segment-anything
+onnx
+onnxruntime-gpu
+pycocotools
+albumentations
+jiwer
+editdistance
+
+# Data Science & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python-headless
+scikit-learn
+scipy
+lovely-tensors
+lovely-numpy
+
+# Utilities & System
+tqdm
+loguru
+gitPython
+kaggle
+requests
+aiofiles
+python-multipart
+click
+Jinja2
+
+# Web Server & API (Chapter 18 Deployment)
+fastapi
+uvicorn
+pydantic
+starlette
+
+# Reinforcement Learning (Chapter 14)
+gym==0.26.2
+
+# Interactive Environment Utilities
+ipywidgets
+ipython
