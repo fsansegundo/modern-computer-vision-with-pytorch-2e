@@ -9,3 +9,9 @@ __pycache__
 *.pt
 *.pth
 *.log
+# Ignore all files in the following directories
+**/training_set/*
+**/test_set/*
+*.zip
+*.tar.gz
+
